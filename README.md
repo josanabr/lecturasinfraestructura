@@ -3,7 +3,7 @@
 A continuación brindo una descripción algunos libros y lecturas que me resultan de interés para mi desarrollo profesional. 
 Siento que muchos de ellos son lecturas obligadas para alcanzar el objetivo de ser un asesor/consultor.
 
-- [Sistemas operativos][#sistemas-operativos]
+- [Sistemas operativos](#sistemas-operativos)
 
 ---
 
