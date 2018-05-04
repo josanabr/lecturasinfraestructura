@@ -11,4 +11,4 @@ Así mismo, los sistemas operativos terminan abordando problemas complejos en co
 
 Existen diversos textos **académicos** que son ampliamente reconocidos y aceptados como textos guías en cursos del área:
 
-- 
+- [Modern operating systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/9332575770/ref=sr_1_2?ie=UTF8&qid=1525451457&sr=8-2&keywords=operating+systems)
